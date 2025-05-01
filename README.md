@@ -1,6 +1,6 @@
 ## <center>Hello World, I'm Deyvson Lucas <img src=https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif width="30">
 
-📖 Analista e Desenvolvedor de Sistemas [FAN](https://www.vemprafam.com.br)
+📖 Analista e Desenvolvedor de Sistemas pela [FAN](https://www.vemprafam.com.br)
 
 💻 Sou Desenvolvedor Full Stack Jr, especializado em desenvolvimento backend e com expertise em Sistemas Distribuídos, Web, Docker, Python, Node.js, PostgreSQL e AWS. .
 
