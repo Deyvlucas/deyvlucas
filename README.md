@@ -1,12 +1,18 @@
 ## <center>Hello World, I'm Deyvson Lucas <img src=https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif width="30">
 
-📖 Analista e Desenvolvedor de Sistemas pela [FAN](https://www.vemprafam.com.br)
+🎓 **Analista e Desenvolvedor de Sistemas** formado pela **[FAN](https://www.vemprafam.com.br)** e apaixonado por tecnologia desde cedo. Com mais de **8 anos de experiência na área de TI**, iniciei minha jornada com suporte técnico e hoje atuo como **Desenvolvedor Full Stack Júnior**, com foco especial no desenvolvimento **Back-End**.
 
-💻 Sou Desenvolvedor Full Stack Jr, especializado em desenvolvimento backend e com expertise em Sistemas Distribuídos, Web, Docker, Python, Node.js, PostgreSQL e AWS. .
+## 🚀 Um pouco sobre mim
+
+- 🔍 Sempre em busca de aprender e evoluir tecnicamente
+- 💡  Gosto de resolver problemas reais com soluções eficientes
+- 🤝 Aberto a colaborações, projetos open source e freelas
+
+---
 
 🤝 Proficiente em linguagens como Python, Typescript, Javascript, juntamente com frameworks NestJs, Express, Django, React, entre outros. Bem versado em ferramentas de implantação (Docker), serviços de nuvem (AWS) e ferramentas de dados (Postgres, SQL, MySQL).
 
-## Contatos:
+## 📫 Como me encontrar
 
 
 [![Gmail](https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white)](mailto:deyvlucas02@gmail.com?subject=[GitHub]%20Acabei%20de%20ver%20o%20seu%20GitHub)
