@@ -10,8 +10,6 @@
 
 ---
 
-🤝 Proficiente em **Java**, com domínio em **Spring Boot**. Experiência em diversas linguagens como Python, Typescript e Javascript. Bem versado em ferramentas de implantação (Docker), serviços de nuvem (AWS) e bancos de dados relacionais (Postgres, MySQL).
-
 ## 📫 Como me encontrar
 
 [![Gmail](https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white)](mailto:deyvlucas02@gmail.com?subject=[GitHub]%20Acabei%20de%20ver%20o%20seu%20GitHub)
