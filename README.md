@@ -1,24 +1,23 @@
 ## <center>Hello World, I'm Deyvson Lucas <img src=https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif width="30">
 
-🎓 **Analista e Desenvolvedor de Sistemas** formado pela **[FAN](https://www.vemprafam.com.br)** e apaixonado por tecnologia desde cedo. Com mais de **8 anos de experiência na área de TI**, iniciei minha jornada com suporte técnico e hoje atuo como **Desenvolvedor Full Stack Júnior**, com foco especial no desenvolvimento **Back-End**.
+🎓 **Analista e Desenvolvedor de Sistemas** formado pela **[FAN](https://www.vemprafam.com.br)** e apaixonado por tecnologia desde cedo. Com mais de **8 anos de experiência como suporte técnico**, hoje foco minha carreira como **Desenvolvedor Java**, com especialização em arquitetura **Back-End**.
 
 ## 🚀 Um pouco sobre mim
 
-- 🔍 Sempre em busca de aprender e evoluir tecnicamente
-- 💡  Gosto de resolver problemas reais com soluções eficientes
-- 🤝 Aberto a colaborações, projetos open source e freelas
+- 🔍 **Especialização atual:** Aprofundando conhecimentos em Java e Spring Boot.
+- 💡  Gosto de resolver problemas reais com soluções eficientes e código limpo.
+- 🤝 Aberto a colaborações, projetos Java open source e freelas.
 
 ---
 
-🤝 Proficiente em linguagens como Python, Typescript, Javascript, juntamente com frameworks NestJs, Express, Django, React, entre outros. Bem versado em ferramentas de implantação (Docker), serviços de nuvem (AWS) e ferramentas de dados (Postgres, SQL, MySQL).
+🤝 Proficiente em **Java**, com domínio em **Spring Boot**. Experiência em diversas linguagens como Python, Typescript e Javascript. Bem versado em ferramentas de implantação (Docker), serviços de nuvem (AWS) e bancos de dados relacionais (Postgres, MySQL).
 
 ## 📫 Como me encontrar
-
 
 [![Gmail](https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white)](mailto:deyvlucas02@gmail.com?subject=[GitHub]%20Acabei%20de%20ver%20o%20seu%20GitHub)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/deyvson-lucas)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucaslucena1902/)
-  
+  
 
 ## Tecnologias:
 
@@ -28,22 +27,20 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23ED8B00?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-1572B6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-1572B6?style=for-the-badge&logo=Python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 #### Frameworks
 ![Node.js](https://img.shields.io/badge/Node.js-43853d?style=for-the-badge&logo=node.js&logoColor=white)
 ![Django](https://img.shields.io/badge/django-3a7435?style=for-the-badge&logo=django&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![AdonisJS](https://img.shields.io/badge/Adonis.Js-3d06a5?style=for-the-badge&logo=adonisjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 #### Banco de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-023430?logo=mongodb&logoColor=fff&style=for-the-badge)
-
 
 #### Estrutura e Ferramentas
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
@@ -57,19 +54,16 @@
 ![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=microservices&logoColor=white)
 ![Testing](https://img.shields.io/badge/Testing-6DB33F?style=for-the-badge&logo=testing-library&logoColor=white)
 
-## Sistema Operacionais:
+## Sistemas Operacionais:
 
 ![ANDROID](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 
-## Ambiente de Desenvolvimento:
-
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![RAM](https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white)
-![Intel I3](https://img.shields.io/badge/Intel-I3_8130H-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-<br/>
+---
 
 ## Minhas Atividades:
 
-![GitHub Streak](#)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO-AQUI&theme=dark)
